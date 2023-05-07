@@ -1,4 +1,5 @@
 {
+    "tips": [ 
     {
       "id": 1,
       "title": "Ahorra Tip #1",
@@ -49,4 +50,5 @@
       "title": "Ahorra Tip #10",
       "description": "Test 10"
     }
+  ]
 }
