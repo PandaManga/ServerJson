@@ -50,5 +50,8 @@
       "title": "Ahorra Tip #10",
       "description": "Test 10"
     }
-  ]
+  ],
+  "total": 4,
+  "skip": 0,
+  "limit": 4
 }
