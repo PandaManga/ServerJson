@@ -1,54 +1,54 @@
 {
-    "tips": [ 
-    {
-      "id": 1,
-      "title": "Ahorra Tip #1",
-      "description": "Test 1"
-    },
-    {
-      "id": 2,
-      "title": "Ahorra Tip #2",
-      "description": "Test 2"
-    },
-    {
-      "id": 3,
-      "title": "Ahorra Tip #3",
-      "description": "Test 3"
-    },
-    {
-      "id": 4,
-      "title": "Ahorra Tip #4",
-      "description": "Test 4"
-    },
-    {
-      "id": 5,
-      "title": "Ahorra Tip #5",
-      "description": "Test 5"
-    },
-    {
-      "id": 6,
-      "title": "Ahorra Tip #6",
-      "description": "Test 6"
-    },
-    {
-      "id": 7,
-      "title": "Ahorra Tip #7",
-      "description": "Test 7"
-    },
-    {
-      "id": 8,
-      "title": "Ahorra Tip #8",
-      "description": "Test 8"
-    },
-    {
-      "id": 9,
-      "title": "Ahorra Tip #9",
-      "description": "Test 9"
-    },
-    {
-      "id": 10,
-      "title": "Ahorra Tip #10",
-      "description": "Test 10"
-    }
-  ]
+    "tips":[	
+	{
+		"id": "1",
+		"title": "Haz una lista de compras y cíñete a ella",
+		"description": "Pregúntate si realmente necesitas cada artículo antes de añadirlo a tu lista de compras y trata de no desviarte de ella al ir de compras."
+	},
+	{
+		"id": "2",
+		"title": "Compara precios antes de comprar",
+		"description": "Investiga y compara precios en diferentes tiendas para asegurarte de que estás obteniendo el mejor precio posible."
+	},
+	{
+		"id": "3",
+		"title": "Compra productos a granel",
+		"description": "Si es un producto que usas con frecuencia y que tiene una larga vida útil, considera comprarlo a granel para ahorrar dinero a largo plazo."
+	},
+	{
+		"id": "4",
+		"title": "Usa cupones y promociones",
+		"description": "Aprovecha los cupones y promociones que se ofrecen en las tiendas para ahorrar dinero en tus compras."
+	},
+	{
+		"id": "5",
+		"title": "Evita las compras por impulso",
+		"description": "Antes de comprar algo, pregúntate si realmente lo necesitas o si simplemente lo estás comprando por impulso."
+	},
+	{
+		"id": "6",
+		"title": "Compra en línea para obtener mejores precios",
+		"description": "Las compras en línea pueden ser más baratas debido a una mayor competencia y a que no hay costos asociados con el mantenimiento de una tienda física."
+	},
+	{
+		"id": "7",
+		"title": "Compra productos usados o reacondicionados",
+		"description": "Considera comprar productos usados o reacondicionados en lugar de nuevos para ahorrar dinero."
+	},
+	{
+		"id": "8",
+		"title": "Compra en temporada",
+		"description": "Los productos frescos y de temporada son más baratos y están en su mejor momento, por lo que vale la pena planificar tus compras en consecuencia."
+	},
+	{
+		"id": "9",
+		"title": "Compra marcas genéricas o de tiendas",
+		"description": "Las marcas genéricas y de tiendas pueden ser igual de buenas que las marcas populares y a menudo son más económicas."
+	},
+	{
+		"id": "10",
+		"title": "Comparte costos con amigos o familiares",
+		"description": "Si necesitas comprar algo grande, considera compartir los costos con amigos o familiares para reducir el costo para todos."
+	}
+]
 }
