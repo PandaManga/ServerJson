@@ -49,6 +49,56 @@
 		"id": 10,
 		"title": "Comparte costos con amigos o familiares",
 		"description": "Si necesitas comprar algo grande, considera compartir los costos con amigos o familiares para reducir el costo para todos."
+	},
+	{
+		"id": 11,
+		"title": "Un Cliente Fiel",
+		"description": "Aprovecha los programas de fidelidad y descuentos para clientes habituales."
+	},
+	{
+		"id": 12,
+		"title": "Compra entre Semana",
+		"description": "Por lo regular las tiendas entre semana llegan a cambiar los precios por la baja circulacion del dia."
+	},
+	{
+		"id": 13,
+		"title": "Una compra Nocturna",
+		"description": "Muchas de la Tiendas llegan a bajar sus precios o hasta rematar sus productos llegando la noche."
+	},
+	{
+		"id": 14,
+		"title": "Cuidado con las ofertas 3x2 o similares",
+		"description": "Estas ofertas llegan hacer muy tentadoras pero en ciertos casos ten cuidado al comprar productos en grandes cantidades, porque puedes llegar a tener una buena cantidad de dinero inmovilizada."
+	},
+	{
+		"id": 15,
+		"title": "Ve a comprar sin hambre",
+		"description": "Si acudes al supermercado con hambre no es de extrañar que todo te resulte más apetecible y con ello termines comprando más de lo necesario y disparando tu gasto."
+	},
+	{
+		"id": 16,
+		"title": "Piensa en pagar en efectivo",
+		"description": "Otra razón para pagar en efectivo es que de esta manera no te quedará otra que ceñirte a la cantidad que llevas, haciendo imposible que compres más de lo necesario."
+	},
+	{
+		"id": 17,
+		"title": "Ojo con los artículos próximos a la caja",
+		"description": "En general se trata de artículos que son fáciles de añadir a la cesta en una compra impulsiva de último momento mientras se espera a pagar ya que no resultan muy caros."
+	},
+	{
+		"id": 18,
+		"title": "Presta atención a los estantes superiores e inferiores",
+		"description": "Entre las estrategias de tiendas para hacerte gastar más está el de colocar aquellos artículos que más les interesa venderte en los estantes situados a la altura de los ojos."
+	},
+	{
+		"id": 19,
+		"title": "Evita hacer la compra con los niños",
+		"description": "Es posible que ayude a minimizar gastos menores derivados de los clásicos caprichos que los más pequeños tienden a pedir al ir de compras."
+	},
+	{
+		"id": 20,
+		"title": "Revisa el ticket de compra",
+		"description": "A veces las tiendas pueden cobrarte de más. Esto puede deberse a un fallo del cajero al pasar los artículos o bien porque el sistema no ha contemplado productos en oferta o promociones."
 	}
 ]
 }
